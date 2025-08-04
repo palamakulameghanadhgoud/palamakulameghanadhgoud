@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Attendu<br>I’m currently learning ML and Image processing <br>Ask me about python<br>Fun fact i am lazy so i find ideas to make lives of people like me 
+I’m currently working on Attendu<br>I’m currently learning ML and Image processing <br>Ask me about python<br>I should touch grass
 
 
 ## 🌐 Socials:
